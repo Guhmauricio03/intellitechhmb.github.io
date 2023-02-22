@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+#titulo{
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    border:1px;
+    border-style: inset;
+    border-color: blue;
+    background-color: blue;
+}
+#listas1{
+    font-weight: bolder;
+    text-align: left;
+    color: blue;   
+}
+:visited,#listas{
+    color: red;
+}
